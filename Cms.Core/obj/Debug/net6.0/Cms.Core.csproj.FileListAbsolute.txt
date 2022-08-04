@@ -1,0 +1,12 @@
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Core\obj\Debug\net6.0\Cms.Core.csproj.AssemblyReference.cache
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Core\obj\Debug\net6.0\Cms.Core.GeneratedMSBuildEditorConfig.editorconfig
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Core\obj\Debug\net6.0\Cms.Core.AssemblyInfoInputs.cache
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Core\obj\Debug\net6.0\Cms.Core.AssemblyInfo.cs
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Core\obj\Debug\net6.0\Cms.Core.csproj.CoreCompileInputs.cache
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Core\bin\Debug\net6.0\Cms.Core.deps.json
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Core\bin\Debug\net6.0\Cms.Core.dll
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Core\bin\Debug\net6.0\Cms.Core.pdb
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Core\obj\Debug\net6.0\Cms.Core.dll
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Core\obj\Debug\net6.0\refint\Cms.Core.dll
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Core\obj\Debug\net6.0\Cms.Core.pdb
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Core\obj\Debug\net6.0\ref\Cms.Core.dll

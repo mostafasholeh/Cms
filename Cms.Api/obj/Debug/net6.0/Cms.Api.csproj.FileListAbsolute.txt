@@ -1,0 +1,7 @@
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Api\obj\Debug\net6.0\Cms.Api.csproj.AssemblyReference.cache
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Api\obj\Debug\net6.0\Cms.Api.GeneratedMSBuildEditorConfig.editorconfig
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Api\obj\Debug\net6.0\Cms.Api.AssemblyInfoInputs.cache
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Api\obj\Debug\net6.0\Cms.Api.AssemblyInfo.cs
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Api\obj\Debug\net6.0\Cms.Api.csproj.CoreCompileInputs.cache
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Api\obj\Debug\net6.0\Cms.Api.MvcApplicationPartsAssemblyInfo.cs
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Api\obj\Debug\net6.0\Cms.Api.MvcApplicationPartsAssemblyInfo.cache

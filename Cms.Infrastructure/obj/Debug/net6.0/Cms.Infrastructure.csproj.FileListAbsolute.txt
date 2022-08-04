@@ -1,0 +1,17 @@
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Infrastructure\bin\Debug\net6.0\Cms.Infrastructure.deps.json
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Infrastructure\bin\Debug\net6.0\Cms.Infrastructure.dll
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Infrastructure\bin\Debug\net6.0\Cms.Infrastructure.pdb
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Infrastructure\obj\Debug\net6.0\Cms.Infrastructure.csproj.AssemblyReference.cache
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Infrastructure\obj\Debug\net6.0\Cms.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Infrastructure\obj\Debug\net6.0\Cms.Infrastructure.AssemblyInfoInputs.cache
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Infrastructure\obj\Debug\net6.0\Cms.Infrastructure.AssemblyInfo.cs
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Infrastructure\obj\Debug\net6.0\Cms.Infrastructure.csproj.CoreCompileInputs.cache
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Infrastructure\obj\Debug\net6.0\Cms.Infrastructure.dll
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Infrastructure\obj\Debug\net6.0\refint\Cms.Infrastructure.dll
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Infrastructure\obj\Debug\net6.0\Cms.Infrastructure.pdb
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Infrastructure\obj\Debug\net6.0\ref\Cms.Infrastructure.dll
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Infrastructure\bin\Debug\net6.0\Cms.Infrastructure.runtimeconfig.json
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Infrastructure\obj\Debug\net6.0\Cms.Infrastructure.genruntimeconfig.cache
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Infrastructure\bin\Debug\net6.0\Cms.Core.dll
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Infrastructure\bin\Debug\net6.0\Cms.Core.pdb
+L:\Clean Architecture LearnMediapub.ir\05\Cms\Cms.Infrastructure\obj\Debug\net6.0\Cms.Infrastructure.csproj.CopyComplete
